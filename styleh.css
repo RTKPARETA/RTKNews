@@ -1,0 +1,121 @@
+.navbar{
+    background-color: black;
+}
+.navbar-collapse{
+   padding-left: 900px; 
+}
+#d1{
+    height:500px;
+    width:100%;
+    border:2px solid black;
+    background-image:url("wallpaper.jpg");
+    background-size:100% 100%;
+    color:rgb(208, 233, 245);
+    text-align: center;
+    background-attachment: fixed;
+}
+
+#cont{
+    height:80%;
+    width:98%;
+    border:1px;
+    box-shadow: inset 0 0 0 2000px rgba(48, 20, 20, 0.6);
+    }	
+
+    .c1{
+    height:80%;
+    width:98%;
+    border:1px;
+    margin-top:5%;
+    margin-left:4%;
+    }
+
+    h1{
+        font-size:80px;
+        padding-top:5%;
+    }
+
+    .b1{
+        border:1px;
+        color:white;
+        background:rgb(69, 79, 114);
+        border-radius:15px/15px;
+        height:35px;
+        width:200px;
+    }
+ .b1:hover{
+    background:rgb(231, 139, 19);
+ }
+
+ #d2{
+    height:70%;
+    width:100%;
+    border:1px;
+    text-align:center;
+    padding-top:0%;
+    color:red;
+    }
+    .img{
+    height:40%;
+    width:17%;
+    margin-left:12%;
+    margin-top:5%;
+    border:1px;
+    float: left;
+    }
+    #pic{
+    height:75%;
+    width:60%;
+    border-radius:100%/100%;
+    border:1px;
+    margin-left:20%;
+    }
+    #intro{
+    height:25%;
+    width:100%;
+    border:1px;
+    }
+    h2{
+    padding-bottom:5px;
+    }
+    #d3{
+        height:90%;
+        width:100%;
+        border:1px;
+        background:red;
+        color:rgb(10, 10, 10);
+        }
+        .bur1{
+        height:60%;
+        width:25%;
+        border-radius:100%/100%;
+        border:1px;
+        margin-left:20%;
+        margin-top:7%;
+        float:left;
+        }
+        .det1{
+        height:40%;
+        width:30%;
+        border:1px;
+        float:right;
+        margin-top:1%;
+        margin-right:15%;
+        }
+        ol{
+            list-style:none;
+            padding-left:0px;
+            padding-top:3%;
+            }
+            ol li{
+            padding-bottom:8%;
+            font-size:15px;
+            }
+            .t1 ol li{
+            margin-left:1%;
+            }
+            .social{
+            border:1px;
+            height:40%;
+            margin-left:-1%;
+            }
